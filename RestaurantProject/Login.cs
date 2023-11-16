@@ -70,6 +70,8 @@ namespace RestaurantProject
             {
                 MessageBox.Show("Your form Empty");
             }
+
+            
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
